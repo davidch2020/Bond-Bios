@@ -1,2 +1,4 @@
 bond-bios-env/
 
+.ipynb_checkpoints/*
+
