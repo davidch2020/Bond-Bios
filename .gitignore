@@ -1,2 +1,3 @@
 bond-bios-env/
-
+.DS_Store
+.ipynb_checkpoints
