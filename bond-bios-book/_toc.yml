@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Historical Contexts
+    chapters:
+      - file: BondBios - The Currency Sixes
+      - file: war_1812
+      - file: ww1_vic_lib
